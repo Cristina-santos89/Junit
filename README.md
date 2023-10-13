@@ -1,2 +1,1 @@
-# Junit
-Repositório para armazenar código de testes Sprint Boot
+Repositório para armazenar código de testes Spring Boot
