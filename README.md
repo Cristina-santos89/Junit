@@ -1,2 +1,2 @@
 # Junit
-Repositório para armazenar código de testes (Junit)
+Repositório para armazenar código de testes Sprint Boot
